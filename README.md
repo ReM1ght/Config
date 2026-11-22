@@ -1,23 +1,7 @@
 # Danylo Mosiienko
 
-Junior System Administrator & IT Support Engineer based in Bratislava, with a full-stack development background.
+## About Me
 
-I work across Linux and Windows systems, networks, hardware and application environments. My experience with JavaScript, TypeScript, React, Node.js and REST APIs helps me understand issues from the user-facing application down to the system level.
+**Junior System Administrator & IT Support Engineer** with 4+ years in self-employed **Full-Stack Development**.
 
-## Focus
-
-- Linux and Windows systems
-- IT support and hardware troubleshooting
-- Network configuration and infrastructure
-- JavaScript, TypeScript, React and Node.js
-- REST APIs and automation
-- Figma and Adobe Photoshop
-
-## Open to
-
-Remote, hybrid or on-site Junior System Administrator and IT Support opportunities.
-
-## Contact
-
-- [Email](mailto:remightwork@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/remight)
+Experienced in Linux and Windows environments, network infrastructure, hardware configuration and troubleshooting. My background in JavaScript, TypeScript, React, Node.js and REST APIs provides a full-cycle perspective — from application code to infrastructure.
